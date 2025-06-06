@@ -40,7 +40,7 @@ class  Script(object):
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/PAID_PROMOTION_PROOFS)
 ║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Zoroo BotJ 👑](https://t.me/Mr_Roronoa_zoroo)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Zoroo Bᴏᴛ](https://t.me/imovies)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Zoroo Bᴏᴛ](https://t.me/imoives)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
